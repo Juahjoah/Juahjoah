@@ -22,8 +22,7 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Juahjoah&theme=rogue)](https://github.com/Juahjoah/github-readme-activity-graph)
-
+[![Juah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Juahjoah0&theme=github&hide_border=true)](https://github.com/Juahjoah/github-readme-activity-graph)
 
 </div>
 
