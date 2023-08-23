@@ -22,7 +22,7 @@
 
 <br>
 
-[![Juah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Juahjoah&theme=github)](https://github.com/Juahjoah/github-readme-activity-graph)
+// [![Juah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Juahjoah&theme=github)](https://github.com/Juahjoah/github-readme-activity-graph)
 
 </div>
 
