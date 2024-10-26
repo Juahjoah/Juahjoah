@@ -53,6 +53,10 @@
 
 <!-- [![Juah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Juahjoah&theme=github)](https://github.com/Juahjoah/github-readme-activity-graph) -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
+<br>
+
+
 </div>
 
 
